@@ -72,6 +72,13 @@ p{
 	font-family: raleway, sans-serif;;
 }
 
+button {
+	font-family: raleway, sans-serif;
+	font-size: 18px;
+	background-color: #F15B31;
+	color: white;
+}
+
 .copyright{
 	float: left;
 }
